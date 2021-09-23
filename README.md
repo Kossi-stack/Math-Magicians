@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# Math Magicians
+
+Math magicians is a website for all fans of mathematics. 
+It is a Single Page App (SPA) that allows users to make simple calculations, and read a random math-related quote.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Built
+
+- HTML
+- CSS
+- React
+- Linters (React & Redux)
+- Git
+
+## Author
+
+👤 **Kossi-Stack**
+
+- GitHub: [@githubhandle](https://kossi-stack.github.io/Math-Magicians/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kossifioklou2406/)
 
 ## Available Scripts
 
@@ -68,3 +86,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Kossi-stack/Mobile_Version_Skeleton/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
