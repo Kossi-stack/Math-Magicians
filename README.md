@@ -6,6 +6,7 @@ It is a Single Page App (SPA) that allows users to make simple calculations, and
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![image](src/calculatorApp.JPG)
+
 ## Built
 
 - HTML
@@ -14,12 +15,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Linters (React & Redux)
 - Git
 
+## Live Demo
+Visit the live demo [here](https://kossi-stack.github.io/Math-Magicians/)
+
 ## Author
 
 👤 **Kossi-Stack**
 
-- GitHub: [@githubhandle](https://kossi-stack.github.io/Math-Magicians/)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kossifioklou2406/)
+- GitHub: [@kossi-stack](https://kossi-stack.github.io/Math-Magicians/)
+- LinkedIn: [kossifioklou](https://www.linkedin.com/in/kossifioklou2406/)
 
 ## Available Scripts
 
