@@ -1,11 +1,11 @@
 * {
   margin: 0;
   padding: 0;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .result {
-  background-color: #858694;
+  background-color: #232858;
   padding: 20px 10px;
   text-align: right;
   color: white;
