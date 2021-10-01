@@ -62,17 +62,18 @@
 }
 
 .container p {
-  margin: 3rem 10rem;
+  margin: 3rem 10rem 3rem 3rem;
   letter-spacing: 1px;
-  background: #e4e4e4;
+  background: #e9d5d5;
   padding: 2rem;
-  border-radius: 4rem;
-  line-height: 1.3rem;
+  border-radius: 2rem;
+  line-height: 1.6rem;
 }
 
 .container h3 {
-  background: #e4e4e4;
+  background: #e9d5d5;
   padding: 1.5rem;
-  margin: 3rem 10rem;
+  margin: 3rem 57rem 3rem 2rem;
   border-radius: 2rem;
+  text-align: start;
 }
