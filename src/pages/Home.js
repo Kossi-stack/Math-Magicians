@@ -7,21 +7,14 @@ const Home = () => (
     <div className="container">
       <h1>Welcome to our page!</h1>
       <p>
-        Math magicians is a website for all fans of mathematics. It is a Single
-        Page App (SPA) that allows users to: Make simple calculations. Read a
-        random math-related quote.
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos, fugit
-        odit molestiae praesepossimus. Veniam, architecto. Labore doloremque
-        illo minus odit nulla nesciunt eius omnis, adipisci, possimus
-        quosexercitationem. Accusamus praesentium, qui minus quam ipsa, illo
-        reprehenderit maxime deserunt aut, iste cupiditate est repellendus natus
-        doloremque sapiente accusantium obcaecati fugiat facere suscipit?
-        Dolores ducimus quis, laborum esse assumenda autem. Enim aut, ullam, ex
-        maxime commodi minima nemo ea, consequatur dignissimos dolore quo
-        necessitatibus officiis voluptatum voluptates cum! Iste dolorum
-        obcaecati ipsam incidunt distinctio debitis a, atque consectetur dolores
-        amet! Molestiae impedit cupiditate nam non quibusdam, harum eligendi
-        doloribus magnam ea.
+      It is important to be aware of the character of the sources for the study of the history of mathematics.
+      The history of Mesopotamian and Egyptian mathematics is based on the extant original documents written by scribes. 
+      Although in the case of Egypt these documents are few, they are all of a type and leave little doubt that Egyptian mathematics was, on the whole, 
+      elementary and profoundly practical in its orientation. For Mesopotamian mathematics, on the other hand, there are a large number of clay tablets, 
+      which reveal mathematical achievements of a much higher order than those of the Egyptians. The tablets indicate that the Mesopotamians had a great deal of remarkable mathematical knowledge, 
+      although they offer no evidence that this knowledge was organized into a deductive system. Future research may reveal more about the early development of mathematics in Mesopotamia or about its influence on Greek mathematics, 
+      but it seems likely that this picture of Mesopotamian mathematics will stand.Ancient mathematical sources
+
       </p>
     </div>
   </Route>
