@@ -5,7 +5,7 @@ It is a Single Page App (SPA) that allows users to make simple calculations, and
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![image](src/calculatorApp.JPG)
+![image](src/math-magicians.JPG)
 
 ## Built
 
