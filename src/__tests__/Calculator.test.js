@@ -1,8 +1,7 @@
-/* eslint-disable */
 import React from 'react';
 import renderer from 'react-test-renderer';
 import { render, screen, fireEvent } from '@testing-library/react';
-import Calculator from '../components/Calculator';
+import Calculator from '../components/calculator';
 
 describe('Test Calculator', () => {
   test('renders Calculator correctly', () => {
