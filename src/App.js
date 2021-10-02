@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Calculator from './components/Calculator';
 import Navbar from './pages/Navbar';
