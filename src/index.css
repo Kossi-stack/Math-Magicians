@@ -1,11 +1,113 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-* {
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'sans-serif', 'Times New Roman', Times, serif;
+}
+
+ul,
+li {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+:root {
+  --color-background: #f7f7f7;
+  --color-display: #4a4e69;
+  --color-btns-container: #fef3eb;
+  --color-calc-btn: #f2e9e4;
+  --color-calc-btn-colored: #ffb685;
+  --color-warning: rgb(255, 53, 53);
+  --color-background-dark: #22223b;
+  --color-display-dark: #4a4e69;
+  --color-btns-container-dark: #fdcdad;
+  --color-calc-btn-dark: #f2e9e4;
+  --color-calc-btn-colored-dark: #ffb685;
+  --color-blue-shade-dark: #c3c6d5;
+  --color-light: #f2e9e4;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: 'Poppins', sans-serif;
+  background: var(--color-background);
 }
 
 body {
-  background-color: whitesmoke;
+  font-size: 1.6rem;
+  color: var(--color-background-dark);
+}
+
+.app {
+  max-width: 96rem;
+  margin: 6rem auto 0;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: var(--color-background);
+}
+
+nav ul {
+  display: flex;
+}
+
+nav h1 {
+  padding: 1rem 0;
+  color: var(--color-display);
+}
+
+.homePage h1 {
+  margin-top: 3em;
+  font-size: 4rem;
+  line-height: 3em;
+}
+
+nav h1:hover {
+  color: var(--color-warning);
+}
+
+.nav-container {
+  max-width: 96rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.link {
+  padding: 1rem 2rem;
+  height: 100%;
+  color: var(--color-display);
+}
+
+.link:hover {
+  color: var(--color-warning);
+}
+
+.link-active {
+  color: var(--color-background-dark);
+  text-decoration: underline;
+}
+
+.homeParagraph {
+  margin-bottom: 2em;
+  max-width: 60ch;
+}
+
+.quoteParagraph {
+  margin-top: 6em;
+  font-size: 4rem;
+  line-height: 1.5em;
 }

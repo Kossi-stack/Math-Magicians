@@ -5,7 +5,7 @@ It is a Single Page App (SPA) that allows users to make simple calculations, and
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![image](src/math-magicians.JPG)
+![image](src/images/Capture.JPG)
 
 ## Built
 
@@ -18,12 +18,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Live Demo
 Visit the live demo [here](https://kossi-stack.github.io/Math-Magicians/)
 
-## Author
+## Authors
 
 👤 **Kossi-Stack**
 
 - GitHub: [@kossi-stack](https://kossi-stack.github.io/Math-Magicians/)
 - LinkedIn: [kossifioklou](https://www.linkedin.com/in/kossifioklou2406/)
+
+👤 **Paka**
+
+- GitHub: [GitHub](https://github.com/OLIPLICHE/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olipliche-paka-mavoungou/)
 
 ## Available Scripts
 

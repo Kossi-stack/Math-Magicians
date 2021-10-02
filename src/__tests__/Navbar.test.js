@@ -1,15 +1,15 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
 import { BrowserRouter as Router } from 'react-router-dom';
-import Navbar from './Navbar';
+import Navbar from '../pages/Navbar';
 
-it('Navbar component is working', () => {
-  const tree = renderer
+it('renders correctly', () => {
+  const nav = renderer
     .create(
       <Router>
         <Navbar />
       </Router>,
     )
     .toJSON();
-  expect(tree).toMatchSnapshot();
+  expect(nav).toMatchSnapshot();
 });
