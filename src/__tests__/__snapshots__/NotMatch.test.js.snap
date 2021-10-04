@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test if Quote renders correctly 1`] = `
+<p
+  className="quoteParagraph"
+>
+  A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+   
+   
+   
+  <b>
+    -Alan Turing
+  </b>
+   
+</p>
+`;
