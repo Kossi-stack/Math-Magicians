@@ -16,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Git
 
 ## Live Demo
-Visit the live demo [here](https://kossi-stack.github.io/Math-Magicians/)
+Visit the live demo [here](https://kossi-math-magicians.netlify.app/)
 
 ## Authors
 
